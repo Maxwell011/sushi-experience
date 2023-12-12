@@ -1,6 +1,8 @@
 import "./App.css";
 import Favourite from "./components/Favourite";
+import Footer from "./components/Footer";
 import Nav from "./components/Nav";
+import Services from "./components/Services";
 import SpecialDishes from "./components/SpecialDishes";
 import Testimonials from "./components/Testimonials";
 import PlayIcon from "./svg/PlayIcon";
@@ -51,6 +53,14 @@ function App() {
 
       <section>
         <Testimonials />
+      </section>
+
+      <section>
+        <Services />
+      </section>
+
+      <section>
+        <Footer />
       </section>
     </>
   );
