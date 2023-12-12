@@ -8,5 +8,5 @@ export default {
       "food-bar": "#C1F1C6",
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 };
