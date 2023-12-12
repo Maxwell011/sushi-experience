@@ -1,6 +1,7 @@
 import "./App.css";
 import Favourite from "./components/Favourite";
 import Nav from "./components/Nav";
+import SpecialDishes from "./components/SpecialDishes";
 import PlayIcon from "./svg/PlayIcon";
 
 function App() {
@@ -41,6 +42,10 @@ function App() {
 
       <section>
         <Favourite />
+      </section>
+
+      <section>
+        <SpecialDishes />
       </section>
     </>
   );
