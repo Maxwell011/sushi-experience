@@ -1,10 +1,10 @@
 const PlayIcon = () => {
   return (
-    <div>
+    <div className="mt-[15px] ml-[-30px]">
       <svg
         xmlns='http://www.w3.org/2000/svg'
-        width='148'
-        height='148'
+        width='80'
+        height='80'
         viewBox='0 0 148 148'
         fill='none'
       >
