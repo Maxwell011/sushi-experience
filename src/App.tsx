@@ -1,4 +1,5 @@
 import "./App.css";
+import Favourite from "./components/Favourite";
 import Nav from "./components/Nav";
 import PlayIcon from "./svg/PlayIcon";
 
@@ -36,6 +37,10 @@ function App() {
             <img src='/MAIN SUSHI IMAGE.png' alt='sushi image' />
           </div>
         </div>
+      </section>
+
+      <section>
+        <Favourite />
       </section>
     </>
   );
