@@ -1,6 +1,6 @@
 const OnlineOrderingIcon = () => {
   return (
-    <div>
+    <div className='mb-3'>
       <svg
         xmlns='http://www.w3.org/2000/svg'
         width='64'
