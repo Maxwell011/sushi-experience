@@ -3,7 +3,7 @@ import StarIcon from "../svg/StarIcon";
 
 const Testimonials = () => {
   return (
-    <div>
+    <section className='mt-44 mb-44'>
       <div className='flex items-center justify-between'>
         <div className=''>
           <img src='/IMAGE 4.png' alt='chef with chop stick image' />
@@ -56,7 +56,7 @@ const Testimonials = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 export default Testimonials;
