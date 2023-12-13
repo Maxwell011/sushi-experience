@@ -1,12 +1,12 @@
 import CateringIcon from "../svg/CateringIcon";
-import FastDeliveryIcon from "../svg/FastdeliveryIcon";
+import FastDeliveryIcon from "../svg/FastDeliveryIcon";
 import GiftCardIcon from "../svg/GiftCardIcon";
 import OnlineOrderingIcon from "../svg/OnlineOrderingIcon";
 
 const Services = () => {
   return (
     <div>
-      <section className=''>
+      <section className='mt-44 mb-44'>
         <div className='flex items-center justify-between'>
           <div className='flex flex-col gap-5'>
             <h2 className='uppercase text-[#F63B3B] text-[22px] font-bold tracking-[3.08px] font-inter mb-7'>
