@@ -62,6 +62,12 @@ function App() {
       <section>
         <Footer />
       </section>
+
+      <div className='footer footer-center p-4 bg-normal-white text-base-content'>
+        <aside>
+          <p>Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
+        </aside>
+      </div>
     </>
   );
 }
