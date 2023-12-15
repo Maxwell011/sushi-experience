@@ -14,7 +14,9 @@ const SpecialDishes = () => {
             <h1 className='text-normal-black text-[57px] font-bold w-[453px] font-inter'>
               Best Dishes From Our Menu{" "}
             </h1>
-            <p></p>
+            <p>
+              {/* <ArrowIcon /> */}
+            </p>
           </div>
         </div>
 
@@ -73,7 +75,7 @@ const DishesItem = ({
               {price}
             </span>{" "}
           </div>
-          <div className='flex items-center'>
+          <div className='flex items-center gap-1'>
             <StarIcon />
             {rating}
           </div>
