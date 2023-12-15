@@ -5,17 +5,17 @@ import StarIcon from "../svg/StarIcon";
 const SpecialDishes = () => {
   return (
     <>
-      <section>
-        <div className="">
-        <h2 className='text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter uppercase'>
-          special dishes
-        </h2>
-        <div className='flex'>
-          <h1 className='text-normal-black text-[57px] font-bold w-[453px] font-inter'>
-            Best Dishes From Our Menu{" "}
-          </h1>
-          <p></p>
-        </div>
+      <section className='mt-44 mb-44'>
+        <div className=''>
+          <h2 className='text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter uppercase'>
+            special dishes
+          </h2>
+          <div className='flex'>
+            <h1 className='text-normal-black text-[57px] font-bold w-[453px] font-inter'>
+              Best Dishes From Our Menu{" "}
+            </h1>
+            <p></p>
+          </div>
         </div>
 
         <div className='flex items-center justify-center gap-10'>

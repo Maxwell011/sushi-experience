@@ -7,6 +7,11 @@ const Testimonials = () => {
       <div className='flex items-center justify-between'>
         <div className=''>
           <img src='/IMAGE 4.png' alt='chef with chop stick image' />
+          <div className='chat chat-end w-[220px] flex items-center justify-center'>
+            <div className='chat-bubble text-normal-black text-lg font-semibold font-inter bg-normal-white'>
+              Our Best Chef 😁
+            </div>
+          </div>
         </div>
 
         <div className=''>
