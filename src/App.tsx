@@ -39,6 +39,11 @@ function App() {
             </div>
 
             <div className=''>
+              <div className='chat chat-end w-[220px] flex items-center justify-center'>
+                <div className='chat-bubble text-[#FF6868] text-lg font-semibold font-inter bg-normal-white'>
+                  Best Sushi Ever!
+                </div>
+              </div>{" "}
               <img src='/MAIN SUSHI IMAGE.png' alt='sushi image' />
             </div>
           </div>
