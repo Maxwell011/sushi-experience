@@ -1,4 +1,5 @@
 import { SPECIAL_DISHES } from "../../constants/index";
+import ArrowIcon from "../svg/ArrowIcon";
 import LoveIcon from "../svg/LoveIcon";
 import StarIcon from "../svg/StarIcon";
 
@@ -15,7 +16,7 @@ const SpecialDishes = () => {
               Best Dishes From Our Menu{" "}
             </h1>
             <p>
-              {/* <ArrowIcon /> */}
+              <ArrowIcon />
             </p>
           </div>
         </div>
