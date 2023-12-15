@@ -45,6 +45,7 @@ const Favourite = () => {
               <img
                 src='/_a9c4460d-a7e5-496e-b46a-360fde90c966-removebg-preview 1.png'
                 alt='popular-dish'
+                className='w-[120px] h-[111px]'
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
@@ -59,6 +60,7 @@ const Favourite = () => {
               <img
                 src='/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png'
                 alt='popular-dish'
+                className='w-[108.995px] h-[97px]'
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
