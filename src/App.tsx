@@ -6,11 +6,12 @@ import SpecialDishes from "./components/SpecialDishes";
 import Testimonials from "./components/Testimonials";
 import Nav from "./components/nav";
 import PlayIcon from "./svg/PlayIcon";
+import StarIcon2 from "./svg/StarIcon2";
 
 function App() {
   return (
     <>
-      <main className='pl-[90px] pr-[90px]'>
+      <main className=''>
         <Nav />
         <section className=''>
           <div className='flex items-center'>
@@ -45,7 +46,49 @@ function App() {
                 </div>
               </div>{" "}
               <img src='/MAIN SUSHI IMAGE.png' alt='sushi image' />
+              <div className='flex gap-3'>
+                <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
+                  <img
+                    src='/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png'
+                    alt='popular-dish'
+                    className='w-[134.461px] h-[118px]'
+                  />{" "}
+                  <div>
+                    <h3 className='text-[#2C2C2C] text-[22px] font-semibold font-inter'>
+                      California roll
+                    </h3>
+                    <StarIcon2 />
+                    <div className='text-[#FF6868] text-xl font-bold'>
+                      $
+                      <span className='text-[#515151] text-2xl font-bold'>
+                        23.00
+                      </span>{" "}
+                    </div>
+                  </div>
+                </div>
+                
+                <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
+                  <img
+                    src='/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png'
+                    alt='popular-dish'
+                    className='w-[108.995px] h-[97px]'
+                  />{" "}
+                  <div>
+                    <h3 className='text-[#2C2C2C] text-[22px] font-semibold font-inter'>
+                      Makizushi
+                    </h3>
+                    <StarIcon2 />
+                    <div className='text-[#FF6868] text-xl font-bold'>
+                      $
+                      <span className='text-[#515151] text-2xl font-bold'>
+                        18.00
+                      </span>{" "}
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
+
           </div>
         </section>
 
