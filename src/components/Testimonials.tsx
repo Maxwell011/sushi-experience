@@ -6,6 +6,7 @@ const Testimonials = () => {
   return (
     <section className='mt-44 mb-44'>
       <div className='flex items-center justify-between gap-28'>
+        <div className="">
         <div className=''>
           <img src='/IMAGE 4.png' alt='chef with chop stick image' />
           {/* <div className='chat chat-end w-[220px] flex items-center justify-center shadow-[(26px_22px_51px_rgba(0,0,0,0.14))]'>
@@ -18,6 +19,7 @@ const Testimonials = () => {
         <ChatboxIcon
           text='Our Best Chef 😁'
         />
+        </div>
 
         <div className=''>
           <div className='flex flex-col gap-5'>
