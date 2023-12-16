@@ -6,14 +6,13 @@ const Testimonials = () => {
   return (
     <section className='mt-44 mb-44'>
       <div className='flex items-center justify-between gap-28'>
-        <div className="flex flex-col item-">
-        <div className=''>
-          <img src='/IMAGE 4.png' alt='chef with chop stick image' />
-        </div>
-
-        <ChatboxIcon
-          text='Our Best Chef 😁'
-        />
+        <div className='flex flex-col item-'>
+          <div className=''>
+            <img src='/IMAGE 4.png' alt='chef with chop stick image' />
+          </div>
+          <div className="mr-[-105px] -mt-10">
+          <ChatboxIcon text='Our Best Chef 😁' />
+          </div>
         </div>
 
         <div className=''>
