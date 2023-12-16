@@ -21,8 +21,8 @@ const ChatboxIcon: React.FC<ChatboxIconProps> = ({ text }) => {
           />
           {text && (
             <text
-              x='70%'
-              y='70%'
+              x='40%'
+              y='40%'
               dominantBaseline='middle'
               textAnchor='middle'
               fill='#000000'
