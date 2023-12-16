@@ -1,4 +1,5 @@
 import { PEOPLE_URL } from "../../constants/index";
+// import ChatboxIcon from "../svg/ChatboxIcon";
 import StarIcon from "../svg/StarIcon";
 
 const Testimonials = () => {
@@ -13,6 +14,10 @@ const Testimonials = () => {
             </div>
           </div>
         </div>
+
+        {/* <ChatboxIcon
+          text='Our Best Chef 😁'
+        /> */}
 
         <div className=''>
           <div className='flex flex-col gap-5'>
