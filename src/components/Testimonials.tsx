@@ -9,11 +9,7 @@ const Testimonials = () => {
         <div className="">
         <div className=''>
           <img src='/IMAGE 4.png' alt='chef with chop stick image' />
-          {/* <div className='chat chat-end w-[220px] flex items-center justify-center shadow-[(26px_22px_51px_rgba(0,0,0,0.14))]'>
-            <div className='chat-bubble text-normal-black text-lg font-semibold font-inter bg-[#FBFBFB]'>
-              Our Best Chef 😁
-            </div>
-          </div> */}
+          
         </div>
 
         <ChatboxIcon
