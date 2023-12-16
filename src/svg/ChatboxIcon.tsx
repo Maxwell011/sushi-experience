@@ -10,7 +10,7 @@ const ChatboxIcon: React.FC<ChatboxIconProps> = ({ text }) => {
       <svg
         xmlns='http://www.w3.org/2000/svg'
         width='350'
-        height='169'
+        height='140'
         viewBox='0 0 350 169'
         fill='none'
       >
