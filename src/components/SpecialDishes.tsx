@@ -67,7 +67,7 @@ const DishesItem = ({
           {title}
         </h2>
         <p className='text-[#555] text-[16px] font-semibold font-inter'>
-          {description}
+          {/* {description} */}
         </p>
         <div className='flex items-center gap-[180px]'>
           <div className='text-[#FF6868] text-xl font-bold'>
