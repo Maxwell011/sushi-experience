@@ -117,7 +117,7 @@ function App() {
 
         <div className='footer footer-center p-4 bg-normal-white text-base-content'>
           <aside>
-            <p className="">Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
+            <p className="">Copyright © 2023 - All right reserved by Shushi</p>
           </aside>
         </div>
       </main>
