@@ -54,7 +54,7 @@ function App() {
                 <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
                   <img
                     src='/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png'
-                    alt='popular-dish'
+                    alt='california-roll'
                     className='w-[134.461px] h-[118px]'
                   />{" "}
                   <div>
@@ -74,7 +74,7 @@ function App() {
                 <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
                   <img
                     src='/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png'
-                    alt='popular-dish'
+                    alt='popular-dish 2'
                     className='w-[108.995px] h-[97px]'
                   />{" "}
                   <div>
