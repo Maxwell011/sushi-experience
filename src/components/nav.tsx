@@ -75,7 +75,7 @@ const Nav = () => {
                       <a>Orders</a>
                     </li>
                     <li>
-                      <a>Submenu 2</a>
+                      <a></a>
                     </li>
                   </ul>
                 </details>
@@ -88,10 +88,10 @@ const Nav = () => {
                   <summary>Services</summary>
                   <ul className='p-2'>
                     <li>
-                      <a>Submenu 1</a>
+                      <a>Gift Card</a>
                     </li>
                     <li>
-                      <a>Submenu 2</a>
+                      <a></a>
                     </li>
                   </ul>
                 </details>
