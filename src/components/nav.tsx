@@ -46,7 +46,7 @@ const Nav = () => {
                       <a>Submenu 1</a>
                     </li>
                     <li>
-                      <a>Submenu 2</a>
+                      <a>Gifts</a>
                     </li>
                   </ul>
                 </li>
