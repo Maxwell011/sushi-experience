@@ -34,24 +34,24 @@ const Nav = () => {
                 className='menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52'
               >
                 <li>
-                  <a>Item 1</a>
+                  <a>Home</a>
                 </li>
                 <li>
-                  <a>Item 2</a>
+                  <a>Services</a>
                 </li>
                 <li>
-                  <a>Parent</a>
+                  <a>Menu</a>
                   <ul className='p-2'>
                     <li>
                       <a>Submenu 1</a>
                     </li>
                     <li>
-                      <a>Submenu 2</a>
+                      <a>Gifts</a>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a>Item 3</a>
+                  <a>Orders</a>
                 </li>
               </ul>
             </div>
@@ -72,10 +72,10 @@ const Nav = () => {
                   <summary>Menu</summary>
                   <ul className='p-2'>
                     <li>
-                      <a>Submenu 1</a>
+                      <a>Orders</a>
                     </li>
                     <li>
-                      <a>Submenu 2</a>
+                      <a></a>
                     </li>
                   </ul>
                 </details>
@@ -88,10 +88,10 @@ const Nav = () => {
                   <summary>Services</summary>
                   <ul className='p-2'>
                     <li>
-                      <a>Submenu 1</a>
+                      <a>Gift Card</a>
                     </li>
                     <li>
-                      <a>Submenu 2</a>
+                      <a>Home Delivery</a>
                     </li>
                   </ul>
                 </details>

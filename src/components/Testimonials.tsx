@@ -1,16 +1,17 @@
 import { PEOPLE_URL } from "../../constants/index";
+import ChatboxIcon from "../svg/ChatboxIcon";
 import StarIcon from "../svg/StarIcon";
 
 const Testimonials = () => {
   return (
     <section className='mt-44 mb-44'>
-      <div className='flex items-center justify-between'>
-        <div className=''>
-          <img src='/IMAGE 4.png' alt='chef with chop stick image' />
-          <div className='chat chat-end w-[220px] flex items-center justify-center'>
-            <div className='chat-bubble text-normal-black text-lg font-semibold font-inter bg-normal-white'>
-              Our Best Chef 😁
-            </div>
+      <div className='flex items-center justify-between gap-28'>
+        <div className='flex flex-col items-end'>
+          <div className=''>
+            <img src='/IMAGE 4.png' alt='chef with chop stick image' />
+          </div>
+          <div className="mr-[-130px] -mt-10">
+          <ChatboxIcon text='Our Best Chef 😁' />
           </div>
         </div>
 

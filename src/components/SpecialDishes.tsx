@@ -1,4 +1,5 @@
 import { SPECIAL_DISHES } from "../../constants/index";
+import ArrowIcon from "../svg/ArrowIcon";
 import LoveIcon from "../svg/LoveIcon";
 import StarIcon from "../svg/StarIcon";
 
@@ -7,15 +8,15 @@ const SpecialDishes = () => {
     <>
       <section className='mt-44 mb-44'>
         <div className=''>
-          <h2 className='text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter uppercase'>
+          <h2 className='text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter uppercase ml-[90px]'>
             special dishes
           </h2>
-          <div className='flex'>
+          <div className='flex justify-between items-center mx-[90px]'>
             <h1 className='text-normal-black text-[57px] font-bold w-[453px] font-inter'>
               Best Dishes From Our Menu{" "}
             </h1>
             <p>
-              {/* <ArrowIcon /> */}
+              <ArrowIcon />
             </p>
           </div>
         </div>

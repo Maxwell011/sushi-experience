@@ -3,7 +3,7 @@ const ArrowIcon = () => {
     <div>
       <svg
         xmlns='http://www.w3.org/2000/svg'
-        width='210'
+        width='150'
         height='80'
         viewBox='0 0 210 80'
         fill='none'

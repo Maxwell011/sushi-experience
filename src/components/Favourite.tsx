@@ -16,7 +16,7 @@ const Favourite = () => {
             <div className='bg-food-bar flex items-center justify-center rounded-[60px] w-[130px] h-[120px]'>
               <img
                 src='/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png'
-                alt='popular-dish'
+                alt='popular-dish 1'
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
@@ -30,7 +30,7 @@ const Favourite = () => {
             <div className='bg-food-bar flex items-center justify-center rounded-[60px] w-[130px] h-[120px]'>
               <img
                 src='/_35e8e57c-d430-4c19-93de-71e2eb204d0f-removebg-preview 1.png'
-                alt='popular-dish'
+                alt='popular-dish 2'
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
@@ -44,7 +44,7 @@ const Favourite = () => {
             <div className='bg-food-bar flex items-center justify-center rounded-[60px] w-[130px] h-[120px]'>
               <img
                 src='/_a9c4460d-a7e5-496e-b46a-360fde90c966-removebg-preview 1.png'
-                alt='popular-dish'
+                alt='popular-dish 3'
                 className='w-[120px] h-[111px]'
               />
             </div>
@@ -59,7 +59,7 @@ const Favourite = () => {
             <div className='bg-food-bar flex items-center justify-center rounded-[60px] w-[130px] h-[120px]'>
               <img
                 src='/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png'
-                alt='popular-dish'
+                alt='popular-dish 4'
                 className='w-[108.995px] h-[97px]'
               />
             </div>
