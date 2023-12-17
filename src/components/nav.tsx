@@ -72,7 +72,7 @@ const Nav = () => {
                   <summary>Menu</summary>
                   <ul className='p-2'>
                     <li>
-                      <a>Submenu 1</a>
+                      <a>Orders</a>
                     </li>
                     <li>
                       <a>Submenu 2</a>
