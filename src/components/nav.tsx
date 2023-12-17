@@ -91,7 +91,7 @@ const Nav = () => {
                       <a>Gift Card</a>
                     </li>
                     <li>
-                      <a></a>
+                      <a>Home Delivery</a>
                     </li>
                   </ul>
                 </details>
