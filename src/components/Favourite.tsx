@@ -16,7 +16,7 @@ const Favourite = () => {
             <div className='bg-food-bar flex items-center justify-center rounded-[60px] w-[130px] h-[120px]'>
               <img
                 src='/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png'
-                alt='popular-dish'
+                alt='popular-dish 1'
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
