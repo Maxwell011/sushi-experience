@@ -22,7 +22,7 @@ function App() {
                   kiss
                 </span>
               </h1>
-              <p className='text-[#4A4A4A] text-[26px] not-italic font-normal font-inter w-[825px]'>
+              <p className='text-[#4A4A4A] text-[24px] not-italic font-normal font-inter w-[825px]'>
                 Masters of Maki: Elevate Your Taste Buds with Our Sushi
                 Creations, Where Tradition Meets Innovation!
               </p>
@@ -41,12 +41,16 @@ function App() {
 
             <div className=''>
               <div className='chat chat-end w-[220px] flex items-center justify-center'>
-                <div className='chat-bubble text-[#FF6868] text-lg font-semibold font-inter bg-normal-white'>
+                <div className='chat-bubble text-[#FF6868] text-lg font-semibold font-inter bg-normal-white absolute mr-[452px] top-[460px]'>
                   Best Sushi Ever!
                 </div>
               </div>{" "}
-              <img src='/MAIN SUSHI IMAGE.png' alt='sushi image' />
-              <div className='flex gap-3'>
+              <img
+                src='/MAIN SUSHI IMAGE.png'
+                alt='sushi image'
+                className='ml-[-120px] mt-[270px]'
+              />
+              <div className='flex gap-3 ml-[-260px] mb-[250px]'>
                 <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
                   <img
                     src='/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png'
@@ -66,7 +70,7 @@ function App() {
                     </div>
                   </div>
                 </div>
-                
+
                 <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
                   <img
                     src='/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png'
@@ -88,7 +92,6 @@ function App() {
                 </div>
               </div>
             </div>
-
           </div>
         </section>
 
@@ -114,7 +117,7 @@ function App() {
 
         <div className='footer footer-center p-4 bg-normal-white text-base-content'>
           <aside>
-            <p>Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
+            <p className="">Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
           </aside>
         </div>
       </main>
