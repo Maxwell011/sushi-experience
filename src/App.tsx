@@ -117,7 +117,7 @@ function App() {
 
         <div className='footer footer-center p-4 bg-normal-white text-base-content'>
           <aside>
-            <p className="">Copyright © 2023 - All right reserved by Shushi</p>
+            <p className="text-xl">Copyright © 2023 - All right reserved by Shushi Food</p>
           </aside>
         </div>
       </main>
