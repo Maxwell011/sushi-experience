@@ -51,7 +51,7 @@ const Nav = () => {
                   </ul>
                 </li>
                 <li>
-                  <a>Item 3</a>
+                  <a>Orders</a>
                 </li>
               </ul>
             </div>
