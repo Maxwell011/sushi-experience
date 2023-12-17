@@ -40,7 +40,7 @@ const Nav = () => {
                   <a>Services</a>
                 </li>
                 <li>
-                  <a>Parent</a>
+                  <a>Menu</a>
                   <ul className='p-2'>
                     <li>
                       <a>Submenu 1</a>
