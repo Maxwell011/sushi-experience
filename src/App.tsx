@@ -15,14 +15,14 @@ function App() {
         <Nav />
         <section className=''>
           <div className='flex items-center'>
-            <div className=''>
+            <div className='mb-[320px]'>
               <h1 className='text-normal-black text-[62px] font-extrabold font-inter w-[600px]'>
                 Sushi Bliss, Every Roll a Flavorful{" "}
                 <span className='text-light-green text-[62px] font-extrabold'>
                   kiss
                 </span>
               </h1>
-              <p className='text-[#4A4A4A] text-[24px] not-italic font-normal font-inter w-[825px]'>
+              <p className='text-[#4A4A4A] text-[28px] not-italic font-normal font-inter w-[825px]'>
                 Masters of Maki: Elevate Your Taste Buds with Our Sushi
                 Creations, Where Tradition Meets Innovation!
               </p>
@@ -41,14 +41,14 @@ function App() {
 
             <div className=''>
               <div className='chat chat-end w-[220px] flex items-center justify-center'>
-                <div className='chat-bubble text-[#FF6868] text-lg font-semibold font-inter bg-normal-white absolute mr-[452px] top-[460px]'>
+                <div className='chat-bubble text-[#FF6868] text-lg font-semibold font-inter bg-normal-white absolute mr-[420px] top-[170px] '>
                   Best Sushi Ever!
-                </div>
+                </div>  
               </div>{" "}
               <img
                 src='/MAIN SUSHI IMAGE.png'
                 alt='sushi image'
-                className='ml-[-120px] mt-[270px]'
+                className='mb-[420px] ml-[-100px]'
               />
             </div>
             <div className='flex gap-3 ml-[-260px] mb-[250px] absolute left-[920px] top-[385px]'>
