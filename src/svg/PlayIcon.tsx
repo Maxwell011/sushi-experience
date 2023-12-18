@@ -1,6 +1,6 @@
 const PlayIcon = () => {
   return (
-    <div className="mt-[15px] ml-[-30px]">
+    <div className='mt-[15px] ml-[-30px]'>
       <svg
         xmlns='http://www.w3.org/2000/svg'
         width='80'
@@ -25,7 +25,7 @@ const PlayIcon = () => {
             filterUnits='userSpaceOnUse'
             color-interpolation-filters='sRGB'
           >
-            <feFlood flood-opacity='0' result='BackgroundImageFix' />
+            <feFlood floodOpacity='0' result='BackgroundImageFix' />
             <feColorMatrix
               in='SourceAlpha'
               type='matrix'
