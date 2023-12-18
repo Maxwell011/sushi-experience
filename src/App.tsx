@@ -50,44 +50,44 @@ function App() {
                 alt='sushi image'
                 className='ml-[-120px] mt-[270px]'
               />
-              <div className='flex gap-3 ml-[-260px] mb-[250px]'>
-                <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
-                  <img
-                    src='/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png'
-                    alt='california-roll'
-                    className='w-[134.461px] h-[118px]'
-                  />{" "}
-                  <div>
-                    <h3 className='text-[#2C2C2C] text-[22px] font-semibold font-inter'>
-                      California roll
-                    </h3>
-                    <StarIcon2 />
-                    <div className='text-[#FF6868] text-xl font-bold'>
-                      $
-                      <span className='text-[#515151] text-2xl font-bold'>
-                        23.00
-                      </span>{" "}
-                    </div>
+            </div>
+            <div className='flex gap-3 ml-[-260px] mb-[250px] absolute left-[920px] top-[385px]'>
+              <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
+                <img
+                  src='/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png'
+                  alt='california-roll'
+                  className='w-[134.461px] h-[118px]'
+                />{" "}
+                <div>
+                  <h3 className='text-[#2C2C2C] text-[22px] font-semibold font-inter'>
+                    California roll
+                  </h3>
+                  <StarIcon2 />
+                  <div className='text-[#FF6868] text-xl font-bold'>
+                    $
+                    <span className='text-[#515151] text-2xl font-bold'>
+                      23.00
+                    </span>{" "}
                   </div>
                 </div>
+              </div>
 
-                <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
-                  <img
-                    src='/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png'
-                    alt='popular-dish 2'
-                    className='w-[108.995px] h-[97px]'
-                  />{" "}
-                  <div>
-                    <h3 className='text-[#2C2C2C] text-[22px] font-semibold font-inter'>
-                      Makizushi
-                    </h3>
-                    <StarIcon2 />
-                    <div className='text-[#FF6868] text-xl font-bold'>
-                      $
-                      <span className='text-[#515151] text-2xl font-bold'>
-                        18.00
-                      </span>{" "}
-                    </div>
+              <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
+                <img
+                  src='/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png'
+                  alt='popular-dish 2'
+                  className='w-[108.995px] h-[97px]'
+                />{" "}
+                <div>
+                  <h3 className='text-[#2C2C2C] text-[22px] font-semibold font-inter'>
+                    Makizushi
+                  </h3>
+                  <StarIcon2 />
+                  <div className='text-[#FF6868] text-xl font-bold'>
+                    $
+                    <span className='text-[#515151] text-2xl font-bold'>
+                      18.00
+                    </span>{" "}
                   </div>
                 </div>
               </div>
@@ -117,7 +117,9 @@ function App() {
 
         <div className='footer footer-center p-4 bg-normal-white text-base-content'>
           <aside>
-            <p className="text-xl">Copyright © 2023 - All right reserved by Shushi Food</p>
+            <p className='text-xl'>
+              Copyright © 2023 - All right reserved by Shushi Food
+            </p>
           </aside>
         </div>
       </main>
