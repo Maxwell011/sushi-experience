@@ -22,8 +22,8 @@ function App() {
                   kiss
                 </span>
               </h1>
-              <p className='text-[#4A4A4A] text-[28px] not-italic font-normal font-inter w-[825px]'>
-                Masters of Maki: Elevate Your Taste Buds with Our Sushi
+              <p className='text-[#4A4A4A] text-[25px] not-italic font-normal font-inter w-[825px]'>
+                Masters of Maki: Elevate Your Taste Buds with Our Sushi <br/>
                 Creations, Where Tradition Meets Innovation!
               </p>
               <div className='flex items-center gap-[20px]'>
@@ -51,7 +51,7 @@ function App() {
                 className='mb-[420px] ml-[-100px]'
               />
             </div>
-            <div className='flex gap-3 ml-[-260px] mb-[250px] absolute left-[920px] top-[385px]'>
+            <div className='flex gap-3 ml-[-260px] mb-[250px] absolute left-[920px] top-[410px]'>
               <div className='shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]'>
                 <img
                   src='/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png'
