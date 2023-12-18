@@ -14,7 +14,7 @@ function App() {
       <main className=''>
         <Nav />
         <section className=''>
-          <div className='flex items-center'>
+          <div className='flex items-center mb-[-190px]'>
             <div className='mb-[320px]'>
               <h1 className='text-normal-black text-[62px] font-extrabold font-inter w-[600px]'>
                 Sushi Bliss, Every Roll a Flavorful{" "}
