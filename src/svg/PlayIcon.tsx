@@ -23,7 +23,7 @@ const PlayIcon = () => {
             width='148'
             height='148'
             filterUnits='userSpaceOnUse'
-            color-interpolation-filters='sRGB'
+            colorInterpolationFilters='sRGB'
           >
             <feFlood floodOpacity='0' result='BackgroundImageFix' />
             <feColorMatrix

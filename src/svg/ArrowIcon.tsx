@@ -13,26 +13,26 @@ const ArrowIcon = () => {
           d='M41.7646 32L34.0002 39.7645'
           stroke='#6F6E6E'
           strokeWidth='4'
-          stroke-linecap='round'
+          StrokeLinecap='round'
         />
         <path
           d='M41.7646 48L34.0002 40.2355'
           stroke='#6F6E6E'
           strokeWidth='4'
-          stroke-linecap='round'
+          StrokeLinecap='round'
         />
         <circle cx='170' cy='40' r='40' fill='#39DB4A' />
         <path
           d='M166 32L173.764 39.7645'
           stroke='white'
           strokeWidth='4'
-          stroke-linecap='round'
+          StrokeLinecap='round'
         />
         <path
           d='M166 48L173.764 40.2355'
           stroke='white'
           strokeWidth='4'
-          stroke-linecap='round'
+          StrokeLinecap='round'
         />
       </svg>
     </div>
