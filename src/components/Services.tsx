@@ -9,7 +9,7 @@ const Services = () => {
       <section className='mt-44 mb-44'>
         <div className='lg:flex lg:items-center lg:justify-between lg:flex-row sm:flex-col'>
           <div className='flex flex-col gap-5'>
-            <h2 className='uppercase text-[#F63B3B] text-[22px] font-bold tracking-[3.08px] font-inter mb-7'>
+            <h2 className='uppercase text-[#F63B3B] text-[22px] font-bold tracking-[3.08px] font-inter mb-7 sm:w-[600px] '>
               our story & services
             </h2>
             <h1 className='text-normal-black w-[635px] font-inter text-6xl font-bold mb-1'>
