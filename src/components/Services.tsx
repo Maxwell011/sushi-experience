@@ -20,8 +20,8 @@ const Services = () => {
               offer exceptional services, blending culinary artistry with warm
               hospitality.
             </p>
-            <div className='flex items-center gap-[20px]'>
-              <button className='w-[155px] h-[50px] shadow-[-2px_10px_50px_0px_rgba(57,219,74,0.50)] rounded-[40px] bg-light-green text-normal-white text-[20px]'>
+            <div className='flex items-center gap-[20px] mb-[30px]'>
+              <button className='w-[155px] h-[50px] shadow-[-2px_10px_50px_0px_rgba(57,219,74,0.50)] rounded-[40px] bg-light-green text-normal-white text-[20px] '>
                 Explore
               </button>
             </div>
