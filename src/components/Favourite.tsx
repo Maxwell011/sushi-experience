@@ -11,7 +11,7 @@ const Favourite = () => {
           </p>
         </div>
 
-        <div className='flex justify-center gap-[25px]'>
+        <div className='flex justify-center gap-[25px] flex-col sm:flex-row'>
           <div className='shadow-[2px_4px_30px_0px_rgba(0,0,0,0.10)] w-[260px] h-[250px] rounded-[40px] bg-normal-white flex items-center justify-center flex-col gap-1'>
             <div className='bg-food-bar flex items-center justify-center rounded-[60px] w-[130px] h-[120px]'>
               <img
