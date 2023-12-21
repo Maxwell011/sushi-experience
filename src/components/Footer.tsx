@@ -54,11 +54,11 @@ const Footer = () => {
             Contact Us
           </header> */}
           <fieldset className='form-control w-80'>
-            {/* <label className='label'>
+            <label className='label'>
               <span className='label-text text-[#555] text-base font-inter font-medium'>
                 Enter your email address
               </span>
-            </label> */}
+            </label>
             <div className='join'>
               <input
                 type='text'
