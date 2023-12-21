@@ -59,7 +59,7 @@ const Footer = () => {
                 Enter your email address
               </span>
             </label> */}
-            <div className='join'>
+            {/* <div className='join'>
               <input
                 type='text'
                 placeholder='username@site.com'
@@ -68,7 +68,7 @@ const Footer = () => {
               <button className='btn btn-primary join-item bg-light-green text-normal-white'>
                 Subscribe
               </button>
-            </div>
+            </div> */}
           </fieldset>
         </nav>
       </footer>
