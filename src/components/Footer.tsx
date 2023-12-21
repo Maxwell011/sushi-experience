@@ -49,7 +49,7 @@ const Footer = () => {
             Reservation
           </a>
         </nav>
-        <nav>
+        {/* <nav>
           <header className='text-normal-black text-[26px] not-italic font-semibold'>
             Contact Us
           </header>
@@ -70,7 +70,7 @@ const Footer = () => {
               </button>
             </div>
           </fieldset>
-        </nav>
+        </nav> */}
       </footer>
     </>
   );
