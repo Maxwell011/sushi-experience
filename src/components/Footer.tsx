@@ -50,9 +50,9 @@ const Footer = () => {
           </a>
         </nav>
         <nav>
-          {/* <header className='text-normal-black text-[26px] not-italic font-semibold'>
+          <header className='text-normal-black text-[26px] not-italic font-semibold'>
             Contact Us
-          </header> */}
+          </header>
           <fieldset className='form-control w-80'>
             <label className='label'>
               <span className='label-text text-[#555] text-base font-inter font-medium'>
