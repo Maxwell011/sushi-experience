@@ -1,4 +1,4 @@
-const Favourite = () => {
+const Favorite = () => {
   return (
     <>
       <section className='flex flex-col gap-[50px]'>
@@ -75,4 +75,4 @@ const Favourite = () => {
     </>
   );
 };
-export default Favourite;
+export default Favorite;
