@@ -43,7 +43,7 @@ const Nav = () => {
                   <a>Menu</a>
                   <ul className='p-2'>
                     <li>
-                      <a>Submenu 1</a>
+                      <a></a>
                     </li>
                     <li>
                       <a>Gifts</a>
