@@ -3,7 +3,7 @@ const Favourite = () => {
     <>
       <section className='flex flex-col gap-[50px]'>
         <div className='flex flex-col justify-center gap-[10px]'>
-          <h1 className='text-[#F63B3B] text-[19px] font-bold leading-[normal] tracking-[3.08px] font-inter text-center'>
+          <h1 className='uppercase text-[#F63B3B] text-[19px] font-bold leading-[normal] tracking-[3.08px] font-inter text-center'>
             customers favorites
           </h1>
           <p className='text-normal-black text-6xl not-italic font-bold font-inter text-center'>
