@@ -64,7 +64,7 @@ const Favorite = () => {
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
-              Browse All
+              <link href="#">Browse All</link> 
             </h2>
             <p className='text-[#555] text-center text-[15px] font-medium font-inter'>
               (255 items)
