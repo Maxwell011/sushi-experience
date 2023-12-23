@@ -1,5 +1,5 @@
 import "./App.css";
-import Favourite from "./components/Favourite";
+import Favorite from "./components/Favourite";
 import Footer from "./components/Footer";
 import Services from "./components/Services";
 import SpecialDishes from "./components/SpecialDishes";
@@ -96,7 +96,7 @@ function App() {
         </section>
 
         <section>
-          <Favourite />
+          <Favorite />
         </section>
 
         <section>
