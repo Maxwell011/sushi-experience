@@ -1,17 +1,17 @@
-const Favourite = () => {
+const Favorite = () => {
   return (
     <>
       <section className='flex flex-col gap-[50px]'>
         <div className='flex flex-col justify-center gap-[10px]'>
-          <h1 className='text-[#F63B3B] text-[19px] font-bold leading-[normal] tracking-[3.08px] font-inter text-center'>
-            CUSTOMER FAVORITES
+          <h1 className='uppercase text-[#F63B3B] text-[19px] font-bold leading-[normal] tracking-[3.08px] font-inter text-center'>
+            customers favorites
           </h1>
           <p className='text-normal-black text-6xl not-italic font-bold font-inter text-center'>
             Popular Categories
           </p>
         </div>
 
-        <div className='flex justify-center gap-[25px]'>
+        <div className='flex justify-center gap-[25px] flex-col sm:flex-row'>
           <div className='shadow-[2px_4px_30px_0px_rgba(0,0,0,0.10)] w-[260px] h-[250px] rounded-[40px] bg-normal-white flex items-center justify-center flex-col gap-1'>
             <div className='bg-food-bar flex items-center justify-center rounded-[60px] w-[130px] h-[120px]'>
               <img
@@ -49,7 +49,9 @@ const Favourite = () => {
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
+              <link href="#">
               Sushi Combo
+              </link>
             </h2>
             <p className='text-[#555] text-center text-[15px] font-medium font-inter'>
               (combo of 6)
@@ -59,12 +61,12 @@ const Favourite = () => {
             <div className='bg-food-bar flex items-center justify-center rounded-[60px] w-[130px] h-[120px]'>
               <img
                 src='/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png'
-                alt='popular-dish 4'
+                alt='others food'
                 className='w-[108.995px] h-[97px]'
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
-              Browse All
+              <link href="#">Browse All</link> 
             </h2>
             <p className='text-[#555] text-center text-[15px] font-medium font-inter'>
               (255 items)
@@ -75,4 +77,4 @@ const Favourite = () => {
     </>
   );
 };
-export default Favourite;
+export default Favorite;

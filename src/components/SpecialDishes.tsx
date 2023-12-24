@@ -22,7 +22,7 @@ const SpecialDishes = () => {
           </div>
         </div>
 
-        <div className='flex items-center justify-center gap-10'>
+        <div className='flex flex-col sm:flex-row items-center justify-center gap-10'>
           {SPECIAL_DISHES.map((dishes) => (
             <DishesItem
               key={dishes.title}
