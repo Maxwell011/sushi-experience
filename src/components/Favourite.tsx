@@ -49,7 +49,9 @@ const Favorite = () => {
               />
             </div>
             <h2 className='text-[#1E1E1E] text-center text-xl font-semibold font-inter'>
+              <link href="#">
               Sushi Combo
+              </link>
             </h2>
             <p className='text-[#555] text-center text-[15px] font-medium font-inter'>
               (combo of 6)
