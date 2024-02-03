@@ -29,3 +29,4 @@ export default {
 
 - Daisy UI
 - Vite
+- Tailwind CSS 
