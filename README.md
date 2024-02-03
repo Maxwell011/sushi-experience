@@ -3,7 +3,7 @@
 This is a sushi app that people who love sushi can select and eat very delicious sushi
 
 - You can order sushi from the comfort of your home
-
+- You can save your favorite sushi and hsve it delivered 
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
