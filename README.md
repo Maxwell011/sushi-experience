@@ -9,8 +9,6 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configuration
 
-If you are developing 
-
 - Configure the top-level `parserOptions` property like this:
 
 ```js
