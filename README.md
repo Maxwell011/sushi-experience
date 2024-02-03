@@ -1,6 +1,6 @@
 # Sushi 🍣🍣🍣 Experience
 
-This is a sushi app that shows people our amazing products 
+This is a sushi app that people who love sushi can select and eat very delicious sushi
 
 Currently, two official plugins are available:
 
