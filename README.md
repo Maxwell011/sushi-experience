@@ -1,4 +1,4 @@
-# Sushi 🍣🍣🍣 Experience
+# Sushi Experience🍣🍣🍣 
 
 This is a sushi app that people who love sushi can select and eat very delicious sushi
 
