@@ -2,7 +2,7 @@ import "./App.css";
 import Favorite from "./components/Favourite";
 import Footer from "./components/Footer";
 import Services from "./components/Services";
-// import SpecialDishes from "./components/SpecialDishes";
+import SpecialDishes from "./components/SpecialDishes";
 import Testimonials from "./components/Testimonials";
 import Nav from "./components/nav";
 import PlayIcon from "./svg/PlayIcon";
@@ -97,7 +97,9 @@ function App() {
         <section>
           <Favorite />
         </section>
-        <section>{/* <SpecialDishes /> */}</section>
+        <section>
+          <SpecialDishes />
+        </section>
         <section>
           <Testimonials />
         </section>
