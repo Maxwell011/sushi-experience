@@ -12,7 +12,6 @@ function App() {
   return (
     <>
       <main className="">
-        console.log("FIRE HERE!")
         <Nav />
         <section className="">
           <div className="flex items-center mb-[-190px]">
