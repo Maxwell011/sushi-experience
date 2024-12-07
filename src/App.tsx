@@ -3,10 +3,10 @@ import Favorite from "./components/Favourite";
 import Footer from "./components/Footer";
 import Services from "./components/Services";
 import SpecialDishes from "./components/SpecialDishes";
-// import Testimonials from "./components/Testimonials";
-// import Nav from "./components/nav";
-// import PlayIcon from "./svg/PlayIcon";
-// import StarIcon2 from "./svg/StarIcon2";
+import Testimonials from "./components/Testimonials";
+import Nav from "./components/nav";
+import PlayIcon from "./svg/PlayIcon";
+import StarIcon2 from "./svg/StarIcon2";
 
 function App() {
   return (
