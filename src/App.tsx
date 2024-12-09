@@ -42,7 +42,7 @@ function App() {
 
             <div className="">
               <div className="chat chat-end w-[220px] flex items-center justify-center">
-                <div className="chat-bubble text-[#FF6868] text-lg font-semibold font-inter bg-normal-white absolute mr-[420px] top-[170px] ">
+                <div className="chat-bubble text-[#FF6868] font-semibold font-inter bg-normal-white absolute mr-[420px] top-[170px] ">
                   Best Sushi Ever!
                 </div>
               </div>{" "}
