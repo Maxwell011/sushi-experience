@@ -14,15 +14,16 @@ function App() {
       <main className="">
         <Nav />
         <section className="">
-          <div className="flex items-center mb-[-190px]">
+          <div className="flex items-center mb-[-190px] mt-5">
             <div className="mb-[320px]">
-              <h1 className="text-normal-black text-[62px] font-extrabold font-inter w-[600px]">
-                Sushi Bliss, Every Roll a Flavorful{" "}
+              <h1 className="text-normal-black text-[50px] font-extrabold font-inter w-[600px]">
+                Sushi Bliss, Every <br />
+                Roll A Flavorful{" "}
                 <span className="text-light-green text-[62px] font-extrabold">
                   kiss
                 </span>
               </h1>
-              <p className="text-[#4A4A4A] text-[25px] not-italic font-normal font-inter w-[825px]">
+              <p className="text-[#4A4A4A] text-[20px] not-italic font-normal font-inter w-[825px]">
                 Masters of Maki: Elevate Your Taste Buds with Our Sushi <br />
                 Creations, Where Tradition Meets Innovation!
               </p>
