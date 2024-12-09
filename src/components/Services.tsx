@@ -33,10 +33,10 @@ const Services = () => {
             <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[270px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <CateringIcon />
-                <h3 className="text-[#5FE26C] text-center text-xl font-bold uppercase font-inter">
+                <h3 className="text-[#5FE26C] text-center text-lg font-bold uppercase font-inter">
                   catering
                 </h3>
-                <p className="w-[220px] text-[#90BD95] text-center text-xl font-semibold">
+                <p className="w-[220px] text-[#90BD95] text-center text-l font-semibold">
                   Delight your guests with our flavors and presentation
                 </p>
               </div>
@@ -44,10 +44,10 @@ const Services = () => {
             <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[270px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <FastDeliveryIcon />
-                <h3 className="text-[#5FE26C] text-center text-xl font-bold uppercase font-inter">
+                <h3 className="text-[#5FE26C] text-center text-lg font-bold uppercase font-inter">
                   fast delivery
                 </h3>
-                <p className="w-[236px] text-[#90BD95] text-center text-xl font-semibold">
+                <p className="w-[236px] text-[#90BD95] text-center text-lg font-semibold">
                   We deliver your order promptly to your door{" "}
                 </p>
               </div>
@@ -55,10 +55,10 @@ const Services = () => {
             <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[270px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <OnlineOrderingIcon />
-                <h3 className="text-[#5FE26C] text-center text-xl font-bold uppercase font-inter">
+                <h3 className="text-[#5FE26C] text-center text-lg font-bold uppercase font-inter">
                   Online Ordering
                 </h3>
-                <p className="w-[236px] text-[#90BD95] text-center text-xl font-semibold">
+                <p className="w-[236px] text-[#90BD95] text-center text-lg font-semibold">
                   Explore menu & order with ease using our Online Ordering{" "}
                 </p>
               </div>
@@ -66,10 +66,10 @@ const Services = () => {
             <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[270px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <GiftCardIcon />
-                <h3 className="text-[#5FE26C] text-center text-xl font-bold uppercase font-inter">
+                <h3 className="text-[#5FE26C] text-center text-lg font-bold uppercase font-inter">
                   gift cards
                 </h3>
-                <p className="w-[220px] text-[#90BD95] text-center text-xl font-semibold">
+                <p className="w-[220px] text-[#90BD95] text-center text-lg font-semibold">
                   Give the gift of exceptional dining with Food Gift Cards{" "}
                 </p>
               </div>
