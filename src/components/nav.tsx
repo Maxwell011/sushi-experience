@@ -56,20 +56,20 @@ const Nav = () => {
               </ul>
             </div>
             <h1 className="flex items-center text-xl font-poppins cursor-pointer">
-              <span className="w-[41px] h-[46px] rounded-[13px] bg-light-green text-neutral-50 text-[40px] flex items-center justify-center">
+              <span className="w-[41px] h-[46px] rounded-[13px] bg-light-green text-neutral-50 text-[30px] flex items-center justify-center">
                 S
               </span>
-              <span className="text-black text-[40px] font-medium">ushi</span>
+              <span className="text-black text-[30px] font-medium">ushi</span>
             </h1>
           </div>
           <div className="navbar-center hidden lg:flex">
             <ul className="menu menu-horizontal px-1 text-black text-xl font-medium">
               <li>
-                <a className="font-poppins text-lg">Home</a>
+                <a className="font-poppins text-base">Home</a>
               </li>
               <li>
                 <details>
-                  <summary className="text-lg">Menu</summary>
+                  <summary className="text-base">Menu</summary>
                   <ul className="p-2">
                     <li>
                       <a className="text-base">Orders</a>
@@ -81,11 +81,11 @@ const Nav = () => {
                 </details>
               </li>
               <li>
-                <a className="text-lg">Offers</a>
+                <a className="text-base">Offers</a>
               </li>
               <li>
                 <details>
-                  <summary className="text-lg">Services</summary>
+                  <summary className="text-base">Services</summary>
                   <ul className="p-2">
                     <li>
                       <a className="text-base">Gift Card</a>
@@ -97,7 +97,7 @@ const Nav = () => {
                 </details>
               </li>
               <li>
-                <a className="text-lg">About Us</a>
+                <a className="text-base">About Us</a>
               </li>
             </ul>
           </div>
