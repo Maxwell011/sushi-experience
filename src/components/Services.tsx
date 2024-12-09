@@ -6,7 +6,7 @@ import OnlineOrderingIcon from "../svg/OnlineOrderingIcon";
 const Services = () => {
   return (
     <div>
-      <section className="mt-44 mb-44">
+      <section className="mt-24 mb-24">
         <div className="flex items-center justify-between">
           <div className="flex flex-col gap-5">
             <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter mb-7 w-fit ">
@@ -30,7 +30,7 @@ const Services = () => {
           </div>
 
           <div className="grid grid-cols-[repeat(2,1fr)] grid-rows-[repeat(2,1fr)] gap-[30px]">
-            <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[270px] rounded-[30px] bg-normal-white flex items-center justify-center">
+            <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[250px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <CateringIcon />
                 <h3 className="text-[#5FE26C] text-center text-lg font-bold uppercase font-inter">
@@ -41,35 +41,35 @@ const Services = () => {
                 </p>
               </div>
             </div>
-            <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[270px] rounded-[30px] bg-normal-white flex items-center justify-center">
+            <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[250px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <FastDeliveryIcon />
                 <h3 className="text-[#5FE26C] text-center text-lg font-bold uppercase font-inter">
                   fast delivery
                 </h3>
-                <p className="w-[236px] text-[#90BD95] text-center text-lg font-semibold">
+                <p className="w-[236px] text-[#90BD95] text-center font-semibold">
                   We deliver your order promptly to your door{" "}
                 </p>
               </div>
             </div>
-            <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[270px] rounded-[30px] bg-normal-white flex items-center justify-center">
+            <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[250px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <OnlineOrderingIcon />
                 <h3 className="text-[#5FE26C] text-center text-lg font-bold uppercase font-inter">
                   Online Ordering
                 </h3>
-                <p className="w-[236px] text-[#90BD95] text-center text-lg font-semibold">
+                <p className="w-[236px] text-[#90BD95] text-center font-semibold">
                   Explore menu & order with ease using our Online Ordering{" "}
                 </p>
               </div>
             </div>
-            <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[270px] rounded-[30px] bg-normal-white flex items-center justify-center">
+            <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[250px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <GiftCardIcon />
                 <h3 className="text-[#5FE26C] text-center text-lg font-bold uppercase font-inter">
                   gift cards
                 </h3>
-                <p className="w-[220px] text-[#90BD95] text-center text-lg font-semibold">
+                <p className="w-[220px] text-[#90BD95] text-center font-semibold">
                   Give the gift of exceptional dining with Food Gift Cards{" "}
                 </p>
               </div>
