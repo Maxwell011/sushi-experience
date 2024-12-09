@@ -7,22 +7,23 @@ const Services = () => {
   return (
     <div>
       <section className="mt-44 mb-44">
-        <div className="">
+        <div className="flex items-center justify-between">
           <div className="flex flex-col gap-5">
-            <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter mb-7 sm:w-[600px] ">
+            <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter mb-7 w-fit ">
               our story & services
             </h2>
-            <h1 className="text-normal-black w-[635px] font-inter text-4xl font-bold mb-1">
+            <h1 className="text-normal-black w-fit font-inter text-4xl font-bold mb-1">
               Our Culinary Journey <br />
               And Services
             </h1>
-            <p className="text-[#4A4A4A] text-base font-medium font-inter ">
-              Rooted in passion, we curate unforgettable dining experiences and
-              offer exceptional services, blending culinary artistry with warm
-              hospitality.
+            <p className="text-[#4A4A4A] text-base font-medium font-inter w-fit">
+              Rooted in passion, we curate unforgettable dining experiences{" "}
+              <br />
+              and offer exceptional services, blending culinary artistry <br />
+              with warm hospitality.
             </p>
-            <div className="flex items-center gap-[20px] mb-[30px]">
-              <button className="w-[155px] h-[50px] shadow-[-2px_10px_50px_0px_rgba(57,219,74,0.50)] rounded-[40px] bg-light-green text-normal-white text-[20px] ">
+            <div className="flex items-center gap-[20px] mb-[30px] w-fit">
+              <button className="w-[145px] h-[50px] shadow-[-2px_10px_50px_0px_rgba(57,219,74,0.50)] rounded-[40px] bg-light-green text-normal-white text-[20px] text-base">
                 Explore
               </button>
             </div>
