@@ -4,7 +4,7 @@ import StarIcon from "../svg/StarIcon";
 
 const Testimonials = () => {
   return (
-    <section className="mt-44 mb-44">
+    <section className="mt-24 mb-24">
       <div className="flex flex-col sm:flex-row sm:flex items-center justify-between gap-28">
         <div className="flex flex-col items-end">
           <div className="">
