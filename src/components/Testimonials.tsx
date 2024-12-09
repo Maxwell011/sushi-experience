@@ -17,13 +17,13 @@ const Testimonials = () => {
 
         <div className="">
           <div className="flex flex-col gap-5">
-            <h2 className="uppercase text-[#F63B3B] text-[22px] font-bold tracking-[3.08px] font-inter mb-7">
+            <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter mb-7">
               testimonials
             </h2>
-            <h1 className="text-normal-black w-[635px] font-inter text-6xl font-bold mb-1">
+            <h1 className="text-normal-black w-[635px] font-inter text-4xl font-bold mb-1">
               What Our Customers Say About Us{" "}
             </h1>
-            <p className="text-[#4A4A4A] text-[23px] font-medium font-inter w-[655px]">
+            <p className="text-[#4A4A4A] text-[20px] font-medium font-inter w-[655px]">
               “I had the pleasure of dining last night, and I'm still raving
               about the experience! The attention to detail in presentation and
               service was impeccable”
@@ -42,16 +42,16 @@ const Testimonials = () => {
                 ))}
               </span>
               <div className="">
-                <p className="md:bold-20 text-white w-[258px] text-normal-black text-[20px] font-semibold font-inter">
+                <p className="md:bold-20 text-white w-[258px] text-normal-black text-base font-semibold font-inter">
                   Customer Feedback
                 </p>
                 <div className="flex items-center gap-1">
                   <StarIcon />
                   <p>
-                    <span className="text-[#454545] text-[19px] font-semibold">
+                    <span className="text-[#454545] text-base font-semibold">
                       4.9
                     </span>
-                    <span className="text-[#807E7E] text-[18px] font-medium">
+                    <span className="text-[#807E7E] text-base font-medium">
                       {" "}
                       (18.6k Reviews)
                     </span>
