@@ -37,21 +37,21 @@ const Nav = () => {
                   <a>Home</a>
                 </li>
                 <li>
-                  <a>Services</a>
+                  <a className="text-base">Services</a>
                 </li>
                 <li>
                   <a>Menu</a>
                   <ul className="p-2">
                     <li>
-                      <a>Bonus</a>
+                      <a className="text-base">Bonus</a>
                     </li>
                     <li>
-                      <a>Gifts</a>
+                      <a className="text-base">Gifts</a>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <a>Orders</a>
+                  <a className="text-base">Orders</a>
                 </li>
               </ul>
             </div>
