@@ -13,7 +13,7 @@ const SpecialDishes = () => {
             special dishes
           </h2>
           <div className="flex justify-between items-center mx-[90px]">
-            <h1 className="text-normal-black text-4xl font-bold w-[453px] font-inter">
+            <h1 className="text-normal-black text-3xl font-bold w-[453px] font-inter">
               Best Dishes From Our Menu{" "}
             </h1>
             <p>
