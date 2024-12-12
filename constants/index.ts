@@ -15,7 +15,8 @@ export const SPECIAL_DISHES = [
   },
   {
     image: "/Sushi Salad -- 2.png",
-    title: "Zen Sashimi Salad",
+    // title: "Zen Sashimi Salad",
+    title: "Sashimi Salad",
     description: "Description of the item",
     currency: "$",
     price: "22.00",
