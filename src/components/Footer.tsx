@@ -4,12 +4,12 @@ const Footer = () => {
       <footer className="footer p-10 bg-[ #FAFAFA] text-base-content">
         <aside>
           <h1 className="flex items-center text-xl font-poppins cursor-pointer">
-            <span className="w-[41px] h-[46px] rounded-[13px] bg-light-green text-neutral-50 text-[40px] flex items-center justify-center">
+            <span className="w-[41px] h-[46px] rounded-[13px] bg-light-green text-neutral-50 text-3xl flex items-center justify-center">
               S
             </span>
-            <span className="text-black text-[40px] font-medium">ushi</span>
+            <span className="text-black text-2xl font-medium">ushi</span>
           </h1>
-          <p className="text-[#555] not-italic font-medium w-[302px] font-inter">
+          <p className="text-[#555] text-base not-italic font-medium w-[302px] font-inter">
             Savor the artistry where every dish is a culinary masterpiece
           </p>
         </aside>
