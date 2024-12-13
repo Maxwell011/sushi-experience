@@ -9,7 +9,7 @@ const Footer = () => {
             </span>
             <span className="text-black text-[40px] font-medium">ushi</span>
           </h1>
-          <p className="text-[#555] text-[19px] not-italic font-medium w-[302px] font-inter">
+          <p className="text-[#555] not-italic font-medium w-[302px] font-inter">
             Savor the artistry where every dish is a culinary masterpiece
           </p>
         </aside>
