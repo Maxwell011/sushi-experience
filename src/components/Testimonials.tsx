@@ -35,7 +35,7 @@ const Testimonials = () => {
                     className="inline-block h-10 w-10 rounded-full"
                     src={url}
                     key={url}
-                    alt="person"
+                    alt="customer images"
                     width={80}
                     height={80}
                   />
