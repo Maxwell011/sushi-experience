@@ -49,7 +49,7 @@ const Testimonials = () => {
                   <StarIcon />
                   <p>
                     <span className="text-[#454545] text-base font-semibold">
-                      4.9
+                      4.5
                     </span>
                     <span className="text-[#807E7E] text-base font-medium">
                       {" "}
