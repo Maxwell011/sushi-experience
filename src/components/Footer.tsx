@@ -10,7 +10,7 @@ const Footer = () => {
             <span className="text-black text-2xl font-medium">ushi</span>
           </h1>
           <p className="text-[#555] text-base not-italic font-medium w-[302px] font-inter">
-            Savor the artistry where every dish is a culinary masterpiece
+            Savor the artistry taste where every dish is a culinary masterpiece.
           </p>
         </aside>
         {/* <nav>
