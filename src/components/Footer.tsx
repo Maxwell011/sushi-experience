@@ -48,7 +48,7 @@ const Footer = () => {
           </a>
         </nav> */}
         <nav>
-          <header className="text-normal-black text-[26px] not-italic font-semibold">
+          <header className="text-normal-black text-2xl not-italic font-semibold">
             Contact Us
           </header>
           <fieldset className="form-control w-80">
