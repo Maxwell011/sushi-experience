@@ -13,8 +13,8 @@ const Footer = () => {
             Savor the artistry taste where every dish is a culinary masterpiece.
           </p>
         </aside>
-        {/* <nav>
-          <header className="text-normal-black text-[26px] not-italic font-semibold mb-[8px]">
+        <nav>
+          <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
             Useful links
           </header>
           <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
@@ -31,7 +31,7 @@ const Footer = () => {
           </a>
         </nav>
         <nav>
-          <header className="text-normal-black text-[26px] not-italic font-semibold mb-[8px]">
+          <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
             Company
           </header>
           <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
@@ -46,7 +46,7 @@ const Footer = () => {
           <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
             Reservation
           </a>
-        </nav> */}
+        </nav>
         <nav>
           <header className="text-normal-black text-2xl not-italic font-semibold">
             Contact Us
