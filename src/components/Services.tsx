@@ -29,7 +29,7 @@ const Services = () => {
             </div>
           </div>
 
-          <div className="grid grid-cols-[repeat(2,1fr)] grid-rows-[repeat(2,1fr)] gap-[30px]">
+          <div className="grid lg:grid-cols-[repeat(2,1fr)] grid-rows-[repeat(2,1fr)] gap-[30px] sm:grid-cols-none">
             <div className="shadow-[7px_12px_43px_0px_rgba(0,0,0,0.14)] w-[277px] h-[250px] rounded-[30px] bg-normal-white flex items-center justify-center">
               <div className="flex flex-col items-center gap-1">
                 <CateringIcon />
