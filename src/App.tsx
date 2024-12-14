@@ -61,7 +61,7 @@ function App() {
                   className="w-[134.461px] h-[118px]"
                 />{" "}
                 <div>
-                  <h3 className="text-[#2C2C2C] text-[22px] font-semibold font-inter">
+                  <h3 className="text-[#2C2C2C] text-xl font-semibold font-inter">
                     California roll
                   </h3>
                   <StarIcon2 />
@@ -81,7 +81,7 @@ function App() {
                   className="w-[108.995px] h-[97px]"
                 />{" "}
                 <div>
-                  <h3 className="text-[#2C2C2C] text-[22px] font-semibold font-inter">
+                  <h3 className="text-[#2C2C2C] text-xl font-semibold font-inter">
                     Makizushi
                   </h3>
                   <StarIcon2 />
