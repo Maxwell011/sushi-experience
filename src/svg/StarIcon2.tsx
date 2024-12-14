@@ -3,8 +3,8 @@ const StarIcon2 = () => {
     <div className="flex gap-2">
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width="17"
-        height="16"
+        width="15"
+        height="13"
         viewBox="0 0 17 16"
         fill="none"
       >
@@ -27,8 +27,8 @@ const StarIcon2 = () => {
       </svg>
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width="17"
-        height="16"
+        width="15"
+        height="13"
         viewBox="0 0 17 16"
         fill="none"
       >
@@ -51,8 +51,8 @@ const StarIcon2 = () => {
       </svg>
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width="17"
-        height="16"
+        width="15"
+        height="13"
         viewBox="0 0 17 16"
         fill="none"
       >
@@ -75,8 +75,8 @@ const StarIcon2 = () => {
       </svg>
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width="17"
-        height="16"
+        width="15"
+        height="13"
         viewBox="0 0 17 16"
         fill="none"
       >
@@ -99,8 +99,8 @@ const StarIcon2 = () => {
       </svg>
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width="18"
-        height="16"
+        width="15"
+        height="13"
         viewBox="0 0 18 16"
         fill="none"
       >
