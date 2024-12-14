@@ -67,7 +67,7 @@ function App() {
                   <StarIcon2 />
                   <div className="text-[#FF6868] text-xl font-bold">
                     $
-                    <span className="text-[#515151] text-2xl font-bold">
+                    <span className="text-[#515151] text-xl font-bold">
                       23.00
                     </span>{" "}
                   </div>
@@ -87,7 +87,7 @@ function App() {
                   <StarIcon2 />
                   <div className="text-[#FF6868] text-xl font-bold">
                     $
-                    <span className="text-[#515151] text-2xl font-bold">
+                    <span className="text-[#515151] text-xl font-bold">
                       18.00
                     </span>{" "}
                   </div>
