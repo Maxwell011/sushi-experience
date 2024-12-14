@@ -54,7 +54,7 @@ function App() {
               />
             </div>
             <div className="flex gap-3 ml-[-260px] mb-[250px] absolute left-[920px] top-[410px]">
-              <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]">
+              <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[125px] rounded-[25px] flex items-center gap-[10px]">
                 <img
                   src="/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png"
                   alt="california-roll"
@@ -74,7 +74,7 @@ function App() {
                 </div>
               </div>
 
-              <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[132px] rounded-[25px] flex items-center gap-[10px]">
+              <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[355.506px] h-[125px] rounded-[25px] flex items-center gap-[10px]">
                 <img
                   src="/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png"
                   alt="popular-dish 2"
