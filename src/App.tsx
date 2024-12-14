@@ -17,7 +17,6 @@ function App() {
           <div className="flex items-center mb-[-190px] mt-20">
             <div className="mb-[320px]">
               <h1 className="text-normal-black text-4xl font-extrabold font-inter w-[600px]">
-                {/* <h1 className="text-normal-black text-5xl font-extrabold font-inter w-[600px]"> */}
                 Sushi Bliss, Every <br />
                 Roll A Flavorful{" "}
                 <span className="text-light-green text-4xl font-extrabold">
