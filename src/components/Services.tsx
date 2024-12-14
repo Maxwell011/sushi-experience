@@ -7,7 +7,7 @@ const Services = () => {
   return (
     <div>
       <section className="mt-24 mb-24">
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between flex-col lg:flex-row">
           <div className="flex flex-col gap-5">
             <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter w-fit ">
               our story & services
