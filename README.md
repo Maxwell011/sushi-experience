@@ -1,6 +1,6 @@
 # Sushi Experience🍣🍣🍣
 
-This is a sushi app that people who love sushi can select and eat very delicious sushi
+This is a simple sushi app that people who love sushi can select and eat very delicious sushi and share with their friends and loved ones.
 
 - You can order sushi from the comfort of your home
 - You can check out our popular Salad Sushi
