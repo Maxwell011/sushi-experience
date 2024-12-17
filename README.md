@@ -1,14 +1,14 @@
-# Sushi Experience🍣🍣🍣 
+# Sushi Experience🍣🍣🍣
 
 This is a sushi app that people who love sushi can select and eat very delicious sushi
 
 - You can order sushi from the comfort of your home
-- You can check out Shushi
+- You can check out our popular Salad Shushi
 - You can save your favorite sushi and have it delivered
-- You can rate your favorite one 
+- You can rate your favorite one and share it with others
 
-## Tools USed
+## Tools Used
 
 - Daisy UI
 - Vite
-- Tailwind CSS 
+- Tailwind CSS
