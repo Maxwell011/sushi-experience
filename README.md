@@ -1,4 +1,4 @@
-<!-- # Sushi Experience🍣🍣🍣
+# Sushi Experience🍣🍣🍣
 
 This is a simple sushi app that people who love sushi can select and eat very delicious sushi and share with their friends and loved ones.
 
@@ -13,4 +13,4 @@ This is a simple sushi app that people who love sushi can select and eat very de
 - Vite
 - Tailwind CSS
 
-## How to checkout the App -->
+## How to checkout the App
