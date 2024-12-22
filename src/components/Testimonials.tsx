@@ -20,7 +20,7 @@ const Testimonials = () => {
             <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter text-center lg:text-start">
               testimonials
             </h2>
-            <h1 className="text-normal-black w-[635px] font-inter text-4xl font-bold mb-1">
+            <h1 className="text-normal-black font-inter text-2xl lg:text-4xl font-bold mb-1">
               What Our Customers Say About Us{" "}
             </h1>
             <p className="text-[#4A4A4A] text-[20px] font-medium font-inter w-[655px]">
