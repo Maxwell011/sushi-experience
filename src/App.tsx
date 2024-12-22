@@ -11,7 +11,7 @@ import StarIcon2 from "./svg/StarIcon2";
 function App() {
   return (
     <>
-      <main className="">
+      <main className="mt-[64px]">
         <Nav />
         <section className="">
           <div className="flex items-center mb-[-190px] mt-20">
