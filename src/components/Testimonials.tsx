@@ -17,7 +17,7 @@ const Testimonials = () => {
 
         <div className="">
           <div className="flex flex-col gap-5">
-            <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter">
+            <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter text-center lg:text-start">
               testimonials
             </h2>
             <h1 className="text-normal-black w-[635px] font-inter text-4xl font-bold mb-1">
