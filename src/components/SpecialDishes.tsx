@@ -70,7 +70,7 @@ const DishesItem = ({
       </div>
       <img src={image} alt={title} />
       <div className="flex flex-col items-start gap-1">
-        <h2 className="text-normal-black text-2xl font-bold font-inter">
+        <h2 className="text-normal-black text-lg lg:text-2xl font-bold font-inter">
           {title}
         </h2>
         <p className="text-[#555] text-[16px] font-semibold font-inter">
