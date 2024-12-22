@@ -6,7 +6,7 @@ const Nav = () => {
   return (
     <>
       <section>
-        <div className="navbar bg-[#FAFAFA]">
+        <div className="navbar bg-[#FAFAFA] fixed top-0 left-0 w-full z-50 shadow-md">
           <div className="navbar-start">
             <div className="dropdown">
               <div
