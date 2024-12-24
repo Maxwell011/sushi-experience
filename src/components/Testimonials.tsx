@@ -17,13 +17,13 @@ const Testimonials = () => {
 
         <div className="">
           <div className="flex flex-col gap-5">
-            <h2 className="uppercase text-[#F63B3B] text-[20px] font-bold tracking-[3.08px] font-inter text-center lg:text-start">
+            <h2 className="uppercase text-[#F63B3B] lg:text-lg font-bold tracking-[3.08px] font-inter text-center lg:text-start">
               testimonials
             </h2>
-            <h1 className="text-normal-black font-inter text-2xl lg:text-4xl font-bold mb-1">
+            <h1 className="text-normal-black font-inter text-2xl lg:text-3xl font-bold mb-1">
               What Our Customers Say About Us{" "}
             </h1>
-            <p className="text-[#4A4A4A] text-[20px] font-medium font-inter w-[655px]">
+            <p className="text-[#4A4A4A] text-lg font-medium font-inter min-w-fit">
               “I had the pleasure of dining last night, and I'm still raving
               about the experience! The attention to detail in presentation and
               service was impeccable”
