@@ -79,7 +79,7 @@ const DishesItem = ({
         <div className="flex items-center gap-[180px]">
           <div className="text-[#FF6868] text-xl font-bold">
             {currency}
-            <span className="text-normal-black text-xl font-bold">
+            <span className="text-normal-black text-lg font-bold">
               {price}
             </span>{" "}
           </div>
