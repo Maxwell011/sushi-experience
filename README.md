@@ -12,4 +12,4 @@ This is a simple sushi app that people who love sushi can select and eat very de
 - Daisy UI
 - Vite
 - Tailwind CSS
-
+- React 
