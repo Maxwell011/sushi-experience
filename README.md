@@ -13,4 +13,3 @@ This is a simple sushi app that people who love sushi can select and eat very de
 - Vite
 - Tailwind CSS
 
-## How to
