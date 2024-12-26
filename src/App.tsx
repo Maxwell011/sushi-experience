@@ -60,13 +60,13 @@ function App() {
                   className="w-[134.461px] h-[118px]"
                 />{" "}
                 <div>
-                  <h3 className="text-[#2C2C2C] text-xl font-semibold font-inter">
+                  <h3 className="text-[#2C2C2C] text-lg font-semibold font-inter">
                     California roll
                   </h3>
                   <StarIcon2 />
                   <div className="text-[#FF6868] text-xl font-bold">
                     $
-                    <span className="text-[#515151] text-xl font-bold">
+                    <span className="text-[#515151] text-base font-bold">
                       23.00
                     </span>{" "}
                   </div>
@@ -80,13 +80,13 @@ function App() {
                   className="w-[108.995px] h-[97px]"
                 />{" "}
                 <div>
-                  <h3 className="text-[#2C2C2C] text-xl font-semibold font-inter">
+                  <h3 className="text-[#2C2C2C] text-lg font-semibold font-inter">
                     Makizushi
                   </h3>
                   <StarIcon2 />
                   <div className="text-[#FF6868] text-xl font-bold">
                     $
-                    <span className="text-[#515151] text-xl font-bold">
+                    <span className="text-[#515151] text-base font-bold">
                       18.00
                     </span>{" "}
                   </div>
