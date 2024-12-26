@@ -65,7 +65,7 @@ const DishesItem = ({
 
   return (
     <div className="shadow-[2px_9px_42px_0px_rgba(0,0,0,0.12)] w-[300px] h-[350px] rounded-[40px] flex items-center flex-col justify-center">
-      <div className="w-20 h-[50px] absolute ml-[223px] mb-[350px] p-0 rounded-[0px_37.5px] bg-light-green flex items-center justify-center">
+      <div className="w-20 h-[50px] absolute ml-[220px] mb-[302px] p-0 rounded-[0px_37.5px] bg-light-green flex items-center justify-center">
         <LoveIcon onClick={toggleLike} liked={liked} />
       </div>
       <img src={image} alt={title} className="w-52 h-52" />
