@@ -68,7 +68,7 @@ const DishesItem = ({
       <div className="w-20 h-[50px] absolute ml-[223px] mb-[350px] p-0 rounded-[0px_37.5px] bg-light-green flex items-center justify-center">
         <LoveIcon onClick={toggleLike} liked={liked} />
       </div>
-      <img src={image} alt={title} />
+      <img src={image} alt={title} className="w-52 h-52" />
       <div className="flex flex-col items-start gap-1">
         <h2 className="text-normal-black text-lg lg:text-2xl font-bold font-inter">
           {title}
