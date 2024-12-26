@@ -14,7 +14,7 @@ function App() {
       <main className="mt-[64px]">
         <Nav />
         <section className="">
-          <div className="flex items-center mb-[-190px] mt-20">
+          <div className="flex items-center mb-[-190px] mt-16">
             <div className="mb-[320px]">
               <h1 className="text-normal-black text-4xl font-extrabold font-inter w-[600px]">
                 Sushi Bliss, Every <br />
