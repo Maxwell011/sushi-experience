@@ -30,12 +30,4 @@ export const SPECIAL_DISHES = [
     price: "18.00",
     rating: "4.9",
   },
-  {
-    image: "/Sushi Salad -- 3.png",
-    title: "Seaside Sushi Salad",
-    description: "Description of the item",
-    currency: "$",
-    price: "18.00",
-    rating: "4.9",
-  },
 ];
