@@ -41,7 +41,7 @@ function App() {
             </div>
 
             <div className="">
-              <div className="chat chat-end w-[220px] flex items-center justify-center">
+              <div className="chat chat-end w-[220px] flex items-center justify-center ">
                 <div className="chat-bubble text-[#FF6868] font-semibold font-inter bg-normal-white absolute mr-[420px] top-[170px] min-w-max">
                   Best Sushi Ever!
                 </div>
@@ -49,15 +49,15 @@ function App() {
               <img
                 src="/MAIN SUSHI IMAGE.png"
                 alt="sushi image"
-                className="mb-[420px] ml-[-90px] mt-[60px]"
+                className="mb-[420px] ml-[-90px] mt-[60px] "
               />
             </div>
             <div className="flex gap-3 ml-[-160px] mb-[250px] absolute left-[730px] top-[310px]">
-              <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[300px] h-[125px] rounded-[25px] flex items-center gap-[10px]">
+              <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[300px] h-[125px] rounded-[25px] flex items-center gap-[10px] animate__animated animate__fadeInLeft">
                 <img
                   src="/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png"
                   alt="california-roll"
-                  className="w-[134.461px] h-[118px]"
+                  className="w-[134.461px] h-[118px] animate__animated "
                 />{" "}
                 <div>
                   <h3 className="text-[#2C2C2C] text-lg font-semibold font-inter">
@@ -73,7 +73,7 @@ function App() {
                 </div>
               </div>
 
-              <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[300px] h-[125px] rounded-[25px] flex items-center gap-[10px]">
+              <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[300px] h-[125px] rounded-[25px] flex items-center gap-[10px] animate__animated animate__fadeInLeft">
                 <img
                   src="/_cc226cf5-2147-430e-b16c-84644636b1fe-removebg-preview 1.png"
                   alt="popular-dish 2"
