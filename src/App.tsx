@@ -113,7 +113,7 @@ function App() {
         {/* <div className="footer footer-center p-4 bg-normal-white text-base-content">
           <aside>
             <p className="text-xl">
-              Copyright © 2023 - All right reserved by Shushi Food
+              Copyright © 2023 - All right reserved by Sushi Food
             </p>
           </aside>
         </div> */}
