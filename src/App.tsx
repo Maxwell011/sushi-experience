@@ -15,15 +15,15 @@ function App() {
         <Nav />
         <section className="">
           <div className="flex items-center mb-[-190px] mt-16">
-            <div className="mb-[320px]">
-              <h1 className="text-normal-black text-4xl font-extrabold font-inter w-[600px]">
+            <div className="mb-[320px] mt-7 lg:mt-0">
+              <h1 className="text-normal-black text-4xl font-extrabold font-inter w-fit">
                 Sushi Bliss, Every <br />
                 Roll A Flavorful{" "}
                 <span className="text-light-green text-4xl font-extrabold">
                   kiss
                 </span>
               </h1>
-              <p className="text-[#4A4A4A] text-lg not-italic font-normal font-inter w-[825px]">
+              <p className="text-[#4A4A4A] text-lg not-italic font-normal font-inter w-[700px]">
                 Masters of Maki: Elevate Your Taste Buds with Our Sushi <br />
                 Creations, Where Tradition Meets Innovation!
               </p>
@@ -40,7 +40,7 @@ function App() {
               </div>
             </div>
 
-            <div className="">
+            <div className="hidden lg:block">
               <div className="chat chat-end w-[220px] flex items-center justify-center ">
                 <div className="chat-bubble text-[#FF6868] font-semibold font-inter bg-normal-white absolute mr-[420px] top-[170px] min-w-max">
                   Best Sushi Ever!
@@ -49,10 +49,10 @@ function App() {
               <img
                 src="/MAIN SUSHI IMAGE.png"
                 alt="sushi image"
-                className="mb-[420px] ml-[-90px] mt-[60px] "
+                className="mb-[420px] ml-[-90px] mt-[0px] "
               />
             </div>
-            <div className="flex gap-3 ml-[-160px] mb-[250px] absolute left-[730px] top-[310px]">
+            <div className="lg:flex gap-3 ml-[-160px] mb-[250px] absolute left-[730px] top-[310px] hidden">
               <div className="shadow-[7px_35px_51px_0px_rgba(0,0,0,0.14)] w-[300px] h-[125px] rounded-[25px] flex items-center gap-[10px] animate__animated animate__fadeInLeft">
                 <img
                   src="/_78d38fb4-559d-4cdb-822d-44ecdec0a7f8-removebg-preview 1.png"
