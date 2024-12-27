@@ -3,7 +3,7 @@ import { SPECIAL_DISHES } from "../../constants/index";
 import ArrowIcon from "../svg/ArrowIcon";
 import LoveIcon from "../svg/LoveIcon";
 import StarIcon from "../svg/StarIcon";
-
+import "animate.css";
 const SpecialDishes = () => {
   return (
     <>
