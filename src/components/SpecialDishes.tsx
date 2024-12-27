@@ -17,7 +17,9 @@ const SpecialDishes = () => {
               Best Dishes From Our Menu{" "}
             </h1>
             <p className="hidden lg:block">
-              <ArrowIcon />
+              <div className="flex gap-2">
+                <ArrowIcon />
+              </div>
             </p>
           </div>
         </div>
