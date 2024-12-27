@@ -16,7 +16,7 @@ const SpecialDishes = () => {
             <h1 className="text-normal-black text-lg lg:text-3xl font-bold font-inter">
               Best Dishes From Our Menu{" "}
             </h1>
-            <p className="">
+            <p className="hidden lg:block">
               <ArrowIcon />
             </p>
           </div>
