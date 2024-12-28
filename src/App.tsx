@@ -15,7 +15,7 @@ function App() {
         <Nav />
         <section className="">
           <div className="flex items-center mb-[-190px] mt-16">
-            <div className="mb-[320px] mt-7 lg:mt-0">
+            <div className="mb-[320px] mt-7 lg:mt-0 flex flex-col items-center justify-center">
               <h1 className="text-normal-black text-4xl font-extrabold font-inter w-fit">
                 Sushi Bliss, Every <br />
                 Roll A Flavorful{" "}
@@ -23,7 +23,7 @@ function App() {
                   kiss
                 </span>
               </h1>
-              <p className="text-[#4A4A4A] text-lg not-italic font-normal font-inter w-[700px]">
+              <p className="text-[#4A4A4A] text-lg not-italic font-normal font-inter w-fit">
                 Masters of Maki: Elevate Your Taste Buds with Our Sushi <br />
                 Creations, Where Tradition Meets Innovation!
               </p>
