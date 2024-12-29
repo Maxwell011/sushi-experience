@@ -8,8 +8,8 @@ const SpecialDishes = () => {
   return (
     <>
       <section className="mt-24 mb-24">
-        <div className="">
-          <h2 className="text-[#F63B3B] text-base font-bold tracking-[3.08px] font-inter uppercase ml-[90px]">
+        <div className="flex flex-col items-center justify-center">
+          <h2 className="text-[#F63B3B] text-base font-bold tracking-[3.08px] font-inter uppercase lg:ml-[90px]">
             special dishes
           </h2>
           <div className="flex justify-between items-center mx-[90px]">
