@@ -104,7 +104,7 @@ const Nav = () => {
           <div className="navbar-end mr-10 rounded-2xl flex gap-5">
             <SearchIcon />
             <ShoppingIcon />
-            <h1 className="bg-light-green p-[10px] rounded-3xl text-neutral-50 text-base font-medium font-poppins flex items-center gap-2">
+            <h1 className="bg-light-green p-[10px] rounded-3xl text-neutral-50 text-base font-medium font-poppins lg:flex items-center gap-2 hidden">
               <PhoneIcon />
               Contact
             </h1>
