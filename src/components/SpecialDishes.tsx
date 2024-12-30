@@ -4,16 +4,17 @@ import ArrowIcon from "../svg/ArrowIcon";
 import LoveIcon from "../svg/LoveIcon";
 import StarIcon from "../svg/StarIcon";
 import "animate.css";
+
 const SpecialDishes = () => {
   return (
     <>
       <section className="mt-24 mb-24">
         <div className="flex flex-col items-center justify-center">
-          <h2 className="text-[#F63B3B] text-base font-bold tracking-[3.08px] font-inter uppercase lg:ml-[90px]">
+          <h2 className="text-[#F63B3B] text-base font-bold tracking-[3px] font-inter uppercase lg:ml-[90px]">
             special dishes
           </h2>
-          <div className="flex justify-between items-center mx-[90px]">
-            <h1 className="text-normal-black text-lg lg:text-3xl font-bold font-inter">
+          <div className="flex justify-between items-center mx-[90px] gap-5">
+            <h1 className="text-normal-black text-lg lg:text-3xl font-bold font-inter w-max">
               Best Dishes From Our Menu{" "}
             </h1>
             <p className="hidden lg:block">
@@ -68,7 +69,11 @@ const DishesItem = ({
   return (
     <div className="shadow-[2px_9px_42px_0px_rgba(0,0,0,0.12)] w-[300px] h-[350px] rounded-[40px] flex items-center flex-col justify-center">
       <div className="w-20 h-[50px] absolute ml-[220px] mb-[302px] p-0 rounded-[0px_37.5px] bg-light-green flex items-center justify-center">
-        <LoveIcon onClick={toggleLike} liked={liked} />
+        <LoveIcon
+          onClick={toggleLike}
+          liked={liked}
+          className="cursor-pointer"
+        />
       </div>
       <img src={image} alt={title} className="w-52 h-52" />
       <div className="flex flex-col items-start gap-1">
