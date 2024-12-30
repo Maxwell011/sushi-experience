@@ -15,7 +15,7 @@ function App() {
         <Nav />
         <section className="">
           <div className="flex items-center mb-[-190px] mt-16">
-            <div className="mb-[320px] mt-7 lg:mt-0 flex flex-col items-center justify-center">
+            <div className="mb-[320px] mt-7 lg:mt-0 flex flex-col items-center justify-center lg:items-start">
               <h1 className="text-normal-black text-4xl font-extrabold font-inter w-fit">
                 Sushi Bliss, Every <br />
                 Roll A Flavorful{" "}
@@ -49,7 +49,7 @@ function App() {
               <img
                 src="/MAIN SUSHI IMAGE.png"
                 alt="sushi image"
-                className="mb-[420px] ml-[-90px] mt-[0px] "
+                className="mb-[420px] mt-[0px] w-3/5"
               />
             </div>
             <div className="lg:flex gap-3 ml-[-160px] mb-[250px] absolute left-[730px] top-[310px] hidden">
