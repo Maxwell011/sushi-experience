@@ -13,7 +13,7 @@ const SpecialDishes = () => {
           <h2 className="text-[#F63B3B] text-base font-bold tracking-[3px] font-inter uppercase lg:ml-[90px]">
             special dishes
           </h2>
-          <div className="flex justify-between items-center mx-[90px] gap-5">
+          <div className="flex justify-between items-center gap-5">
             <h1 className="text-normal-black text-lg lg:text-3xl font-bold font-inter w-max">
               Best Dishes From Our Menu{" "}
             </h1>
