@@ -42,7 +42,7 @@ function App() {
 
             <div className="hidden lg:block">
               <div className="chat chat-end w-[220px] flex items-center justify-center ">
-                <div className="chat-bubble text-[#FF6868] font-semibold font-inter bg-normal-white absolute top-[140px] min-w-max">
+                <div className="chat-bubble text-[#FF6868] font-semibold font-inter bg-normal-white absolute top-[140px] min-w-max ml-36">
                   Best Sushi Ever!
                 </div>
               </div>{" "}
