@@ -42,14 +42,14 @@ function App() {
 
             <div className="hidden lg:block">
               <div className="chat chat-end w-[220px] flex items-center justify-center ">
-                <div className="chat-bubble text-[#FF6868] font-semibold font-inter bg-normal-white absolute mr-[420px] top-[170px] min-w-max">
+                <div className="chat-bubble text-[#FF6868] font-semibold font-inter bg-normal-white absolute top-[140px] min-w-max">
                   Best Sushi Ever!
                 </div>
               </div>{" "}
               <img
                 src="/MAIN SUSHI IMAGE.png"
                 alt="sushi image"
-                className="mb-[420px] w-3/5 mt-[-65px] ml-[180px]"
+                className="mb-[420px] w-3/5 mt-[-50px] ml-[180px]"
               />
             </div>
             <div className="lg:flex gap-3 ml-[-160px] mb-[250px] absolute left-[730px] top-[310px] hidden">
