@@ -14,7 +14,9 @@ const Footer = () => {
           </p>
         </aside>
         <nav>
-          <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]"></header>
+          <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
+            Details
+          </header>
           <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
             About us
           </a>
