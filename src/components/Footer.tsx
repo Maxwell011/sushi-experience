@@ -43,9 +43,7 @@ const Footer = () => {
           <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
             Menus
           </a>
-          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
-            Reservation
-          </a>
+          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer"></a>
         </nav>
         <nav>
           <header className="text-normal-black text-2xl not-italic font-semibold">
