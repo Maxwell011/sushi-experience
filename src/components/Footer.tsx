@@ -13,40 +13,42 @@ const Footer = () => {
             Savor the artistry taste where every dish is a culinary masterpiece.
           </p>
         </aside>
-        <nav>
-          <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
-            Details
-          </header>
-          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
-            About us
-          </a>
-          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
-            Events
-          </a>
-          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
-            Blogs
-          </a>
-          <a className="text-[#555] text-base font-inter font-medium cursor-pointer link-hover">
-            FAQ
-          </a>
-        </nav>
-        <nav>
-          <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
-            Company
-          </header>
-          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
-            Home
-          </a>
-          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
-            Offers
-          </a>
-          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
-            Menus
-          </a>
-          <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
-            Services
-          </a>
-        </nav>
+        <div>
+          <nav className="flex flex-col">
+            <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
+              Details
+            </header>
+            <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
+              About us
+            </a>
+            <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
+              Events
+            </a>
+            <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
+              Blogs
+            </a>
+            <a className="text-[#555] text-base font-inter font-medium cursor-pointer link-hover">
+              FAQ
+            </a>
+          </nav>
+          <nav className="flex flex-col">
+            <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
+              Company
+            </header>
+            <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
+              Home
+            </a>
+            <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
+              Offers
+            </a>
+            <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
+              Menus
+            </a>
+            <a className="link-hover text-[#555] text-base font-inter font-medium cursor-pointer">
+              Services
+            </a>
+          </nav>
+        </div>
         <nav>
           <header className="text-normal-black text-2xl not-italic font-semibold">
             Contact Us
