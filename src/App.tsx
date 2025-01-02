@@ -110,7 +110,7 @@ function App() {
         <section>
           <Footer />
         </section>
-        <div className="footer footer-center p-4 bg-normal-white text-base-content">
+        <div className="footer footer-center p-4 bg-normal-white text-base-content hidden lg:block">
           <aside>
             <p className="text-xl">
               Copyright © 2024 - All right reserved by Sushi Food
