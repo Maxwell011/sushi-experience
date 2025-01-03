@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <>
-      <footer className="p-6 bg-[ #FAFAFA] text-base-content flex flex-col items-center lg:flex-row lg:justify-between">
+      <footer className="p-6 bg-[ #FAFAFA] text-base-content flex flex-col items-center gap-4 lg:flex-row lg:justify-between">
         <aside>
           <h1 className="flex items-center text-xl font-poppins cursor-pointer">
             <span className="w-[41px] h-[46px] rounded-[13px] bg-light-green text-neutral-50 text-3xl flex items-center justify-center">
@@ -13,7 +13,7 @@ const Footer = () => {
             Savor the artistry taste where every dish is a culinary masterpiece.
           </p>
         </aside>
-        <div className="flex">
+        <div className="flex gap-4">
           <nav className="flex flex-col">
             <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
               Details
