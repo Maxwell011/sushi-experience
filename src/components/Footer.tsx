@@ -13,7 +13,7 @@ const Footer = () => {
             Savor the artistry taste where every dish is a culinary masterpiece.
           </p>
         </aside>
-        <div className="flex gap-4">
+        <div className="flex gap-10">
           <nav className="flex flex-col">
             <header className="text-normal-black text-2xl not-italic font-semibold mb-[8px]">
               Details
