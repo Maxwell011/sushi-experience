@@ -16,4 +16,4 @@ This is a simple sushi app that people who love sushi can select and eat very de
 - Tailwind CSS
 - React
 
-## How To Use 
+# How To Use 
