@@ -9,7 +9,7 @@ This is a simple sushi app that people who love sushi can select and eat very de
 - You can save your favorite sushi and have it delivered
 - You can rate your favorite one and share it with others
 
-## Tools Used
+# Tools Used
 
 - Daisy UI
 - Vite
