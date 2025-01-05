@@ -5,7 +5,7 @@ This is a simple sushi app that people who love sushi can select and eat very de
 # Features
 
 - You can order sushi from the comfort of your home
-- You can check out our popular Salad Sushi
+- You can check out our special Salad Sushi
 - You can save your favorite sushi and have it delivered
 - You can rate your favorite one and share it with others
 
