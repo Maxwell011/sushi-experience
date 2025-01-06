@@ -74,65 +74,23 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - Visual Studio Code
-- Git
-- Ruby
-- PostgreSQL
-- Rails
-
-```
- gem install rails
-```
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```
-git clone git https://github.com/Maxwell011/Budget-app.git
+git@github.com:Maxwell011/sushi-experience.git
 
-cd Budget-app
+cd sushi-experience
 ```
 
 ### Install
 
 Install this project with:
 
-```sh
-  bundle install
 ```
-
-```sh
-  npm install
-```
-
-Create Database (Mandatory)
-
-```
-rails db:create
-```
-
-If you have made a migration then run this command
-
-```
-rails db:migrate
-```
-
-```
-rails db:seed
-```
-
-### Usage
-
-To run the project, execute the following command:
-
-```sh
-  rails server or rails s
-```
-
-Run tests
-
-```
-rspec
+   npm install
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -150,12 +108,6 @@ rspec
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[Use importmaps or esbuild for loading JavaScript]**
-- [ ] **[Notifications that pop up and close]**
-- [ ] **[Implement side menu and User settings]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,20 +133,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank:
-
-- [Microverse](https://microverse.org)
-- Code reviewers
-- Inspiration
-  - [Vitor Guedes Madeira](https://github.com/VitorGuedesMadeira)
-
-Under the the [Creative Commons liscense](https://creativecommons.org/licenses/by-nc/4.0/)
-
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/84629565/181086933-d5bcdb09-da51-40f6-b0f8-a1f191614257.png">
-
-Original design from [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+I would like to thank:Sasha
 
 <!-- LICENSE -->
 
