@@ -31,55 +31,37 @@
 
 # Sushi Experience 🍣🍣🍣<a name="about-project"></a>
 
-**Sushi Experience** is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.The Ruby on Rails application that allows the user to:
+**Sushi Experience**
 
-- Register and log in, so that the data is private to them.
-- Introduce new transactions associated with a category.
-- Track the money spent on each category.
+This is a simple sushi app that people who love sushi can select and eat very delicious sushi and share with their friends and loved ones.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Ruby</summary>
+  <summary>Daisy UI</summary>
 </details>
 
 <details>
-  <summary>Ruby on Rails</summary>
+  <summary>Vite</summary>
 </details>
 
 <details>
-  <summary>Bootstrap 5 </summary>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
+  <summary>Tailwind CSS</summary>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Authentication, User can manage his categories ]**
-- **[User must be authenticated]**
+- You can order sushi from the comfort of your home
+- You can check out our special Salad Sushi
+- You can save your favorite sushi and have it delivered
+- You can rate your favorite one and share it with others.
+- You can see the rating of the sushi and the number of people who have rated it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🛠 Live Demo <a name="live-demo"></a>
-
-https://budget-app-nm3z.onrender.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ER DIAGRAM-->
-
-## :card_index: Entity Relationship Diagram <a name="er-diagram"></a>
-
-![er-diagram](https://github.com/microverseinc/curriculum-rails/raw/main/capstone/images/erd_diagram.png)
 
 <!-- GETTING STARTED -->
 
