@@ -1,24 +1,7 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
--->
-
 <div align="center">
-  <h3><b>Budget App</b></h3>
+  <h3><b>Sushi Experience</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -46,9 +29,9 @@ REQUIRED SECTIONS:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget App<a name="about-project"></a>
+# Sushi Experience 🍣🍣🍣<a name="about-project"></a>
 
-**ENHANCE** is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.The Ruby on Rails application that allows the user to:
+**Sushi Experience** is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.The Ruby on Rails application that allows the user to:
 
 - Register and log in, so that the data is private to them.
 - Introduce new transactions associated with a category.
