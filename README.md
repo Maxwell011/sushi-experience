@@ -10,7 +10,7 @@ This is a simple sushi app that people who love sushi can select and eat very de
 - You can rate your favorite one and share it with others.
 - You can see the rating of the sushi and the number of people who have rated it.
 
-## Tools Used
+# Tools Used
 
 - Daisy UI
 - Vite
