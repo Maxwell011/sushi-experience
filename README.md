@@ -1,7 +1,7 @@
-<a name="readme-top"></a>
+<a name="readme-top">🍣🍣🍣</a>
 
 <div align="center">
-  <h3><b>Sushi Experience</b></h3>
+  <h3><b>Sushi Experience🍣🍣🍣</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
