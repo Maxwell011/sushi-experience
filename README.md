@@ -106,7 +106,6 @@ Install this project with:
 
 - GitHub: [@githubhandle](https://github.com/Maxwell011)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-maxwell/)
-- Twitter: [Maxwellchu2Orji](https://Maxwellchu2Orji)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
