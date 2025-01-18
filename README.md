@@ -13,7 +13,6 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🛠 Live Demo ](#-live-demo-)
-  - [:card_index: Entity Relationship Diagram ](#card_index-entity-relationship-diagram-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
