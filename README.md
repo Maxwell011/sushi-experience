@@ -1,4 +1,3 @@
-<a name="readme-top">🍣🍣🍣</a>
 
 <div align="center">
   <h3><b>Sushi Experience🍣🍣🍣</b></h3>
