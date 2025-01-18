@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3><b>Sushi Experience🍣🍣🍣</b></h3>
+  # sushi Experience🍣🍣🍣
 </div>
 
 <!-- TABLE OF CONTENTS -->
