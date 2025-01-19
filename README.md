@@ -132,7 +132,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank:Sasha
+I would like to thank: Sasha
 
 <!-- LICENSE -->
 
