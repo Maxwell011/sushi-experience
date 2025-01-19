@@ -64,7 +64,7 @@ This is a simple sushi app that people who love sushi can select and eat very de
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+If you would like to get a local copy up and running, please follow these steps.
 
 ### Prerequisites
 
